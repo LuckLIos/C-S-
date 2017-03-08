@@ -18,7 +18,7 @@ public class Client{
 	          f.close();
               System.out.println("complete!");
 		}catch(IOException e){
-			System.out.println("ÎÄ¼şÏÂÔØÊ§°Ü!");
+			System.out.println("file transfer failed!");
 		}
 	}
 }
